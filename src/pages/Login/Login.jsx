@@ -14,7 +14,7 @@ const Home = () => {
           <a href="#">Signup</a>
         </div>
         <div class="form-actions">
-          <Button />
+          <Button>Send</Button>
         </div>
       </div>
     </div>
